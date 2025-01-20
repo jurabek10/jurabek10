@@ -1,5 +1,5 @@
 <h1 align="center">Jurabek Samiev</h1>
-Frontend developer. I have started learning Frontend developing since March in 2023. Now I am learning JavaScript  and its React library deeply.
+
 
 [📤 Telegram](https://t.me/jurabek_03_sejong) | [✉️ Email](mailto:samiev.jurabek@bk.ru)
 
